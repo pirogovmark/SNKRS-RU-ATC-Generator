@@ -1,1 +1,3 @@
-# SNKRS-RU-ATC-Generator
+# SNKRS RU ATC Generator
+
+## Данный проект создан для генерации ссылок раннего доступа на SNKRS RU, реализованный в качестве бота в Telegram
